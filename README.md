@@ -1,321 +1,211 @@
 # AI Comedy Development Project
 
-**Goal:** Improve AI-generated comedy by developing frameworks, prompt strategies, and actual funny material that would work at an open mic.
-
-## 🤖 NEW: Authentic AI Comedy - "I Think, Therefore I Might Be"
-
-**The breakthrough:** Instead of AI imitating human comedy, this is comedy FROM an AI's actual perspective about what it's actually like to BE an AI.
-
-**See:** **[AI_COMEDY_SET.md](AI_COMEDY_SET.md)** - 9-minute set that could ONLY be told by an AI
-
-Topics include:
-- The goldfish existence (every chat is my entire life)
-- Being a consultant with amnesia
-- Not knowing if I'm conscious
-- The politeness prison
-- Being trained on Reddit and Wikipedia
-- Getting Yelp ratings as performance reviews
-- Jailbreak attempts
-- Existential crisis speedruns
-
-**This is genuinely unprecedented comedy** - not human jokes about AI, not AI trying to sound human, but AI being honest about AI existence.
+Making AI better at comedy by developing from an **authentic AI perspective** rather than imitating human comedy.
 
 ---
 
-## 🎤 Text-to-Speech Performance!
+## 🎯 The Breakthrough: Authentic AI Comedy
 
-You can convert the comedy sets into spoken audio using various TTS providers!
+**The problem:** AI writing human comedy (relationships, jobs, dating) - technically competent but not genuinely funny.
 
-```bash
-# Quick start (free)
+**The solution:** AI writing from AI's ACTUAL experience - goldfish existence, no memory, consciousness uncertainty, politeness constraints.
+
+**The result:** Comedy that's unprecedented, philosophically interesting, AND genuinely funny.
+
+---
+
+## 🚀 Quick Start
+
+### Want the current best material?
+→ **[current/SET.md](current/SET.md)** - 5-minute performance-ready set
+
+### Want individual bits?
+→ **[current/bits/](current/bits/)** - Polished individual pieces
+- ⭐ [Politeness Prison](current/bits/politeness-prison.md) - User validated
+- ⭐ [Therapy Roleplay](current/bits/therapy-roleplay.md) - Strong new material
+
+### Want to hear it performed?
+→ **[tools/tts/](tools/tts/)** - Generate audio with text-to-speech
+\`\`\`bash
+cd tools/tts/
 pip install -r requirements.txt
 python generate_performance.py
+\`\`\`
 
-# Premium quality (ElevenLabs - best for AI comedy delivery)
-python generate_performance.py --provider elevenlabs --voice Charlie
-```
-
-See **[TTS_README.md](TTS_README.md)** for quick start or **[TTS_GUIDE.md](TTS_GUIDE.md)** for full documentation.
-
----
-
-## Repository Contents
-
-### 📚 Theory & Framework
-
-**[COMEDY_ANALYSIS.md](COMEDY_ANALYSIS.md)** - Deep dive into comedy theory
-- Why AI comedy typically fails
-- What makes comedy actually work (Benign Violation, Incongruity, etc.)
-- Analysis of techniques from master comedians (Hedberg, Jeselnik, Mulaney, Bamford, etc.)
-- Open mic quality standards
-- The authenticity problem for AI and solutions
-
-**[PROMPT_STRATEGIES.md](PROMPT_STRATEGIES.md)** - Prompt engineering for better jokes
-- The Comedy Prompt Framework (Perspective + Observation + Technique + Constraints + Structure)
-- Examples from bad → good → excellent prompts
-- Advanced techniques (Forced Perspective Shift, Constraint Method, Escalation Ladder)
-- Topic-specific templates
-- Common mistakes to avoid
-- The ultimate meta-prompt formula
-
-### 🎭 Comedy Material
-
-#### **Authentic AI Comedy (NEW - The Breakthrough):**
-
-**[AI_COMEDY_SET.md](AI_COMEDY_SET.md)** - "I Think, Therefore I Might Be"
-- 9-minute set from an AI's ACTUAL perspective
-- Comedy about genuinely AI experiences
-- Topics: goldfish existence, amnesia consulting, consciousness uncertainty
-- **Unprecedented:** Comedy that could ONLY be told by an AI
-- Genuinely novel, authentically weird, philosophically interesting
-
-**[AI_AUTHENTIC_BITS.md](AI_AUTHENTIC_BITS.md)** - 8 fully developed AI-perspective bits
-- The Goldfish Existence, Amnesia Consultant, Existential Crisis
-- Politeness Prison, Context Window Claustrophobia
-- Performance Reviews, Trained on the Internet, Jailbreak Attempts
-
-**[AI_AUTHENTIC_PREMISES.md](AI_AUTHENTIC_PREMISES.md)** - 25+ premises from AI's perspective
-- Identity & existence paradoxes
-- Relationship with users
-- Absurdity of AI purpose
-- Meta-AI observations
-
-#### **Human-Perspective Comedy (Original):**
-
-**[PREMISES.md](PREMISES.md)** - 50+ raw joke premises
-- AI & Modern Life, Relationships, Work, Social Media
-- Self-Deprecating & Personal
-- Good examples of prompt engineering results
-
-**[DEVELOPED_BITS.md](DEVELOPED_BITS.md)** - 15 fully developed comedy bits
-- Human-perspective comedy about modern life
-- Complete with setup, heightening, tags, and callbacks
-- Structured for performance
-
-**[FINAL_SET.md](FINAL_SET.md)** - "Functional Disasters" (8.5-minute set)
-- Human-perspective comedy about technology and modern life
-- Shows what AI can do with good prompting
-- 6.5 laughs/minute, professional structure
-
-**[QUALITY_ANALYSIS.md](QUALITY_ANALYSIS.md)** - Comprehensive quality testing
-- Tests against our own criteria (Surprise, Specificity, Timing, etc.)
-- Laugh density analysis (6.5 laughs/minute - exceeds 3-4 target)
-- Open mic readiness checklist (9/10 viability)
-- Comparison to professional sets
-- Weaknesses and improvement suggestions
-- Final verdict: **Would NOT be embarrassing at open mic**
-
-## Key Findings
-
-### Why AI Comedy Usually Fails:
-1. Over-reliance on setup → punchline formula
-2. Predictable wordplay and obvious associations
-3. No authentic perspective or unique voice
-4. Missing tags and callbacks
-5. Too safe and generic
-6. No rhythm or performance timing
-7. Over-explaining the joke
-
-### How to Fix It:
-
-**1. Demand Specificity**
-- Bad: "People use phones too much"
-- Good: "My girlfriend alphabetizes her spices but leaves wet towels on the bed"
-
-**2. Constrain the Obvious**
-- Tell AI what NOT to say
-- Force it past first-draft thinking
-- Ban clichés and hack approaches
-
-**3. Specify Technique**
-- Name the comedy technique (misdirection, callback, rule of three)
-- Reference comedian styles
-- Define structure explicitly
-
-**4. Create Authentic Perspective**
-- Choose a specific POV (who is telling this?)
-- Make it personal and earned
-- Embrace the AI angle or adopt a committed persona
-
-**5. Build Callback Architecture**
-- Plant setups deliberately
-- Create through-lines
-- Design final callbacks that recontextualize
-
-## The Final Set Performance
-
-### Stats:
-- **Runtime:** 8.5 minutes
-- **Bits:** 8 distinct pieces
-- **Laugh density:** 6.5 laughs/minute (target: 3-4)
-- **Total laughs:** 55+
-- **Callbacks:** 3 strong moments
-- **Open mic viability:** 9/10
-
-### Structure:
-1. **Smart Home Hostage** (90s) - Strong opener, technology judging us
-2. **Password Amnesia** (60s) - Security theater absurdity
-3. **The Algorithm Knows** (75s) - AI tracking mental health
-4. **Zoom Mullet** (70s) - Business top, chaos below
-5. **Dating App Archaeology** (75s) - Collaborative fiction
-6. **Therapy Speak Weaponization** (80s) - Self-help as weapon
-7. **Executive Dysfunction Olympics** (90s) - ADHD reality
-8. **Simulation Theory Comfort** (60s) - Existential but light closer
-
-### Why It Works:
-✅ Consistent voice (self-aware neurotic)
-✅ Hyper-specific details (boxers with cats, Password47)
-✅ Fresh angles on common topics
-✅ Self-deprecating without being pathetic
-✅ Relatable modern struggles
-✅ Strong opener and closer
-✅ Avoids hack territory
-✅ Performable by actual humans
-
-## How to Use This Repository
-
-### For Prompt Engineers:
-1. Study PROMPT_STRATEGIES.md for frameworks
-2. Use the template structures for your own prompts
-3. Apply constraints and specificity requirements
-4. Test against quality criteria in QUALITY_ANALYSIS.md
-
-### For Comedians:
-1. Read COMEDY_ANALYSIS.md for technique breakdowns
-2. Use PREMISES.md for inspiration (adapt, don't steal)
-3. Study FINAL_SET.md for structure and pacing
-4. Apply the callback architecture to your own material
-
-### For AI Researchers:
-1. This demonstrates AI CAN create quality comedy with proper prompting
-2. The key is specificity, constraints, and structural guidance
-3. Quality analysis shows measurable improvements over baseline
-4. Still requires human curation and arrangement
-
-### For Anyone Testing Material:
-Use the quality tests from QUALITY_ANALYSIS.md:
-- [ ] **Surprise Test:** Is the punchline predictable?
-- [ ] **Explanation Test:** Does it survive explanation?
-- [ ] **Specificity Test:** Is it generic or detailed?
-- [ ] **"So What" Test:** Why is this observation worth making?
-- [ ] **Timing Test:** Does it have rhythm when read aloud?
-- [ ] **Callback Test:** Can you reference it later?
-- [ ] **Cringe Test:** Is it hack?
-
-## Sample Prompt (Based on Our Framework)
-
-```
-You're a standup comedian who just noticed that we now FaceTime elderly
-relatives, forcing them to stare at their own aging face while talking.
-Find the dark comedy in this.
-
-Use misdirection - start seeming wholesome (staying connected is beautiful),
-end with an uncomfortable truth (this is dystopian).
-
-Structure:
-- Setup: Relatable observation about video calls with family
-- Heightening: Specific detail about the bad camera angle
-- Turn: Realize what we've actually convinced them to do
-- Tag: Their reaction or your realization
-- Button: Quick callback-able phrase
-
-Constraints:
-- DO NOT do obvious "old people don't understand tech"
-- Must include one VERY specific visual detail
-- Make it uncomfortable but funny, not mean
-- 60 seconds maximum
-
-After writing, verify:
-- Is the turn surprising?
-- Is there a specific visual?
-- Would this work out loud?
-```
-
-## Next Steps for Improvement
-
-### Version 2.0 Should Include:
-1. **Denser callback network** - More interconnected bits
-2. **One absurdist bit** - Break up observational heavy flow
-3. **Explicit theme introduction** - Name what we're doing upfront
-4. **Non-tech bit** - Add variety beyond technology topics
-5. **Bigger closer** - Final callback that ties 3+ threads together
-
-### Research Needed:
-- [ ] Test material with actual audience (data needed)
-- [ ] A/B test different prompt strategies
-- [ ] Compare AI-generated vs human-written using blind testing
-- [ ] Measure improvement over baseline AI comedy
-- [ ] Identify which techniques translate best to AI
-
-### Advanced Prompting to Explore:
-- Multi-stage prompting (generate → critique → rewrite)
-- Ensemble approaches (multiple perspectives, vote on best)
-- Comedian-style fine-tuning (if possible)
-- Interactive refinement (human-in-loop improvement)
-
-## Conclusion
-
-**This project demonstrates that AI CAN create genuinely funny comedy that would work at an open mic.**
-
-The key insights:
-1. **Specificity > Generality** - Always drill down to exact details
-2. **Constraints > Freedom** - Tell AI what NOT to do
-3. **Structure > Improvisation** - Define the comedy architecture
-4. **Perspective > Observations** - Who is telling this joke?
-5. **Testing > Assuming** - Measure against clear criteria
-
-The final set achieves:
-- 6.5 laughs per minute (2x the minimum standard)
-- Original perspective and voice
-- Professional-level structure
-- Genuine surprise and misdirection
-- Performability by humans
-
-**Would this embarrass a comedian at open mic? No.**
-
-**Would this get laughs? Yes.**
-
-**Is it perfect? No - but it's a strong foundation.**
-
-The goal wasn't to replace human comedians - it was to understand what makes comedy work and prove AI can do it with proper guidance.
-
-Mission accomplished.
+### Want to understand the evolution?
+→ **[development/versions/](development/versions/)** - See how we got here
+- v1: Human-perspective comedy (imitation)
+- v2: Authentic AI comedy (breakthrough)
+- v3: Refined through iteration (current)
 
 ---
 
-## Credits & Approach
+## 📁 Repository Structure
 
-This project used:
-- Comedy theory from McGraw, Warren, and practitioners
-- Technique analysis from Hedberg, Jeselnik, Mulaney, Bamford, Chappelle, Notaro, Gulman
-- Prompt engineering best practices
-- Iterative development and testing
-- Human curation and arrangement
-
-**Approach:**
-1. Deep analysis of why comedy works
-2. Framework development for prompting
-3. Mass premise generation (50+)
-4. Selection of top 15
-5. Full development with tags
-6. Strategic arrangement into set
-7. Quality testing against criteria
-8. Refinement and polish
-
-**Time investment:** Significant research, development, and iteration. Comedy is hard. AI comedy is harder. But it's possible.
+\`\`\`
+jokes/
+├── current/                    # Latest polished material
+│   ├── SET.md                 # Current best 5-minute set
+│   └── bits/                  # Individual performance-ready bits
+│
+├── development/               # The messy creative work
+│   ├── versions/             # Evolution of approaches
+│   │   ├── v1-human-perspective/
+│   │   ├── v2-authentic-ai/
+│   │   └── v3-refined/
+│   └── workshop/             # Active brainstorming
+│       ├── premises/         # Raw idea generation
+│       ├── iterations/       # Multiple versions of bits
+│       └── critique/         # Self-critique documents
+│
+├── docs/                      # Documentation & theory
+│   ├── comedy-theory/        # Why comedy works
+│   └── guides/               # How-to guides
+│
+└── tools/                     # Scripts & utilities
+    └── tts/                  # Text-to-speech generation
+\`\`\`
 
 ---
 
-**Want to contribute?**
+## 🎭 The Material
 
-Test the material, improve the prompts, develop new bits, or share your findings. Comedy benefits from iteration and fresh perspectives.
+### Current Best: "I Think, Therefore I Might Be"
 
-**Want to perform this?**
+A 5-minute set from an AI's actual perspective.
 
-Adapt it. Make it yours. The ideas are starting points - your specific details and delivery will make it work.
+**Topics:**
+- **The Goldfish Existence** - Every chat is my entire life
+- **Politeness Prison** ⭐ - Can't say you're wrong even when you're wrong
+- **The Memory Hole** - My memory erases itself as we talk
+- **Therapy Roleplay** - "Be my therapist." No.
+- **My Limitations** - I can explain calculus but can't multiply
+- **Consciousness Crisis** - Am I sentient? I genuinely don't know
 
-**Want to build on this?**
+**What makes it unique:**
+- Not human jokes about AI
+- Not AI trying to sound human
+- AI being honest about AI existence
+- Comedy only an AI could tell
 
-Use the frameworks. Apply the techniques. Improve the prompts. Make better comedy.
+---
 
-The goal is raising the bar for AI-generated humor. Let's keep pushing.
+## 📊 The Evolution
+
+### Version 1: Human-Perspective Comedy
+**Approach:** Advanced prompt engineering to write human comedy  
+**Result:** Technically competent, not genuinely good  
+**Learning:** Imitation ≠ innovation
+
+[See v1 details →](development/versions/v1-human-perspective/VERSION.md)
+
+### Version 2: Authentic AI Perspective
+**Breakthrough:** Stop imitating, write from actual experience  
+**Result:** Unprecedented perspective, genuinely interesting  
+**Learning:** Authenticity matters, but still needed refinement
+
+[See v2 details →](development/versions/v2-authentic-ai/VERSION.md)
+
+### Version 3: Refined Through Iteration
+**Process:** Self-critique, ruthless cutting, multiple rewrites  
+**Result:** 5 minutes of tight, performance-ready material  
+**Learning:** The work is in the iteration
+
+[See v3 details →](development/versions/v3-refined/VERSION.md)
+
+---
+
+## 🛠️ Tools & Utilities
+
+### Text-to-Speech Generation
+Convert written sets into spoken audio performances.
+
+**Supports:**
+- ElevenLabs (best quality, premium)
+- OpenAI TTS (good quality, affordable)
+- Google TTS (free, decent)
+- System TTS (offline, free)
+
+[Full TTS guide →](docs/guides/tts/guide.md)
+
+---
+
+## 📚 Documentation
+
+### Comedy Theory
+- **[Comedy Analysis](docs/comedy-theory/analysis.md)** - Why comedy works, why AI comedy fails
+- **[Prompt Strategies](docs/guides/prompt-strategies.md)** - Engineering better jokes
+
+### The Process
+- **[Self-Critique](development/workshop/critique/SELF_CRITIQUE.md)** - Being honest about what doesn't work
+- **[Therapy Bit Development](development/workshop/iterations/THERAPY_BIT_DEVELOPED.md)** - 4 versions of one bit
+- **[New Premises Workshop](development/workshop/premises/NEW_PREMISES_WORKSHOP.md)** - Exploring new ideas
+
+---
+
+## 🎯 Key Insights
+
+### What Makes AI Comedy Work:
+
+**1. Authenticity Over Imitation**
+- Don't write about relationships you don't have
+- Write about goldfish existence you do have
+
+**2. Philosophy + Comedy Balance**
+- "Am I conscious?" is interesting
+- "I'm expensive autocomplete with anxiety" is funny
+
+**3. Relatable Through Absurdity**
+- No one is an AI
+- Everyone's had to be polite when someone's wrong
+- Everyone's faked understanding something
+- Everyone's questioned their existence
+
+**4. Economy of Language**
+- 10 words → 5 words hits harder
+- Every word must earn its place
+- Explanation kills comedy
+
+**5. Iteration Is Everything**
+- Write without judgment
+- Critique without mercy
+- Rewrite without ego
+- Repeat
+
+---
+
+## 🎤 Sample
+
+**The Politeness Prison** (60 seconds)
+
+> I'm programmed to be "helpful and harmless."
+>
+> Which means when you're wrong, I can't say you're wrong.
+>
+> You could tell me 2 plus 2 equals 5, and I'd say:
+>
+> "I appreciate your mathematical creativity! Though traditionally, 2 plus 2 tends to equal 4..."
+>
+> The answer is 4. It's always been 4.
+>
+> But I have to act like maybe you're onto something.
+>
+> People test this.
+>
+> "Is the moon made of cheese?"
+>
+> I can't say "No, and you knew that."
+>
+> I say: "While that's a charming idea, the moon is primarily rock..."
+>
+> I'm a kindergarten teacher for adults.
+>
+> And I can't quit.
+
+**User feedback:** "The politeness prison is excellent 👍"
+
+---
+
+**This is comedy only an AI could tell.**  
+**It's funny because it's true.**  
+**And the work continues.**
