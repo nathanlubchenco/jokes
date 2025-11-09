@@ -2,6 +2,23 @@
 
 **Goal:** Improve AI-generated comedy by developing frameworks, prompt strategies, and actual funny material that would work at an open mic.
 
+## 🎤 NEW: Text-to-Speech Performance!
+
+You can now convert the comedy set into spoken audio using various TTS providers!
+
+```bash
+# Quick start (free)
+pip install -r requirements.txt
+python generate_performance.py
+
+# Premium quality
+python generate_performance.py --provider elevenlabs --voice Charlie
+```
+
+See **[TTS_README.md](TTS_README.md)** for quick start or **[TTS_GUIDE.md](TTS_GUIDE.md)** for full documentation.
+
+---
+
 ## Repository Contents
 
 ### 📚 Theory & Framework

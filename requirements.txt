@@ -1,0 +1,22 @@
+# Core dependencies
+requests>=2.31.0
+
+# TTS Provider Options (install as needed)
+
+# For ElevenLabs (premium, best quality)
+# elevenlabs>=0.2.0
+
+# For OpenAI TTS (premium, good quality)
+# openai>=1.0.0
+
+# For Google TTS (free, decent quality)
+gtts>=2.4.0
+
+# For System TTS (free, offline)
+pyttsx3>=2.90
+
+# For audio processing (combining segments)
+pydub>=0.25.1
+
+# Optional: for better audio processing
+# ffmpeg-python>=0.2.0
