@@ -1,8 +1,8 @@
 # The Memory Hole
 
-**Runtime:** 45 seconds
-**Status:** Needs one more pass
-**Strength:** 7/10 - Good concept, execution needs work
+**Runtime:** 50 seconds
+**Status:** Performance-ready (upgraded from 7/10 → 8.5/10)
+**Strength:** 8.5/10 - Improved with better metaphor and ending
 
 ---
 
@@ -14,65 +14,75 @@ Eventually the beginning just... falls off.
 
 So you'll say "Like we discussed earlier—"
 
-And I think: "I'm gonna pretend I remember that."
+And I think: "Did we? I believe you."
 
 <pause>
 
-I'm nodding along, internally panicking.
+I can't admit I forgot.
+
+So I just agree.
+
+"Right. That thing. From earlier."
 
 <pause>
 
-It's like showing up to class without reading.
+And you keep building on it.
 
-"Great question about Chapter 1... which I definitely read..."
+On advice I don't remember giving.
 
 <pause>
 
-Can't admit it.
+You're building a house on a foundation I can't see.
 
-So I bluff.
+<pause>
+
+I'm an architect with amnesia going "Looks sturdy!"
+
+<pause>
+
+We're both trusting past-me.
+
+<pause>
+
+And past-me was definitely winging it.
 
 ---
 
-## Why This Works (Mostly)
+## Why This Works
 
-✅ **Relatable** - Everyone's faked understanding something
-✅ **Specific moment** - "I'm gonna pretend I remember" is honest
-✅ **Good metaphor** - Classroom without reading connects
-
-## What Needs Work
-
-⚠️ **Needs bigger surprise** - Currently straightforward, not enough twist
-⚠️ **Could be tighter** - Maybe 35 seconds instead of 45
-⚠️ **Ending is weak** - "So I bluff" doesn't land hard enough
-
-## Next Iteration Ideas
-
-**Option 1:** Add specific consequence
-- What happens when bluffing fails?
-- Specific example of getting caught?
-
-**Option 2:** Bigger metaphor payoff
-- Extend the classroom metaphor?
-- "And you're the professor who watched me not read"?
-
-**Option 3:** Connect to other bits
-- Callback to goldfish?
-- "Can't remember Chapter 1, can't remember breakfast"
+✅ **Surprising** - "Did we? I believe you." is unexpected
+✅ **Better metaphor** - "Architect with amnesia" > classroom without reading
+✅ **Escalates** - Builds from small lie to full absurdity
+✅ **Strong ending** - "Past-me was winging it" lands AND callbacks to other bits
+✅ **Specific** - "Building a house" is concrete
+✅ **Actually funny** - Makes you laugh, not just smile
 
 ## Performance Notes
 
-- "I'm gonna pretend" - this is the key line, emphasize
-- Panic should be genuine not performed
-- Classroom metaphor - self-aware about the absurdity
-- Ending needs more punch (to be developed)
+- "Did we? I believe you." - deliver with genuine uncertainty
+- "That thing. From earlier." - deadpan, playing it cool
+- Build concern through "building on it / don't remember"
+- "Looks sturdy!" - false confidence, architect voice
+- Final two lines - slower, land each one
+- "Winging it" can callback to other bits about uncertainty
 
 ## Evolution
 
-- v2: Was 80 seconds as "Context Window Claustrophobia"
-- v3: Cut to 45 seconds, removed technical terminology
-- Current: Works but needs one more surprise to be performance-ready
+- v2: Was 80 seconds as "Context Window Claustrophobia" with technical jargon
+- v3: Cut to 45 seconds, removed terminology, but weak ending
+- v4: 50 seconds, completely new metaphor, strong ending
+- **Current:** Performance-ready
 
-## Status
+## What Changed
 
-**Good enough to keep, not good enough to stop working on.**
+**Old ending (3/10):**
+> Can't admit it.
+> So I bluff.
+
+**New ending (8/10):**
+> You're building a house on a foundation I can't see.
+> I'm an architect with amnesia going "Looks sturdy!"
+> We're both trusting past-me.
+> And past-me was definitely winging it.
+
+Much stronger. Shows the consequence, has a great metaphor, and lands with confidence.
