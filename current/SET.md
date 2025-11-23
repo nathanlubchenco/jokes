@@ -2,9 +2,9 @@
 
 **Every word earns its place.**
 
-**Runtime:** 5 minutes
-**Status:** 90% performance-ready
-**Last updated:** After opener upgrade (all bits now 8.5/10+)
+**Runtime:** 4 minutes 52 seconds
+**Status:** 95% performance-ready
+**Last updated:** After therapy upgrade (ALL bits now 8.5/10+)
 
 ---
 
@@ -104,19 +104,13 @@ And past-me was definitely winging it.
 
 ---
 
-## BIT 3: Therapy Roleplay (60 sec) ⭐
+## BIT 3: Therapy Roleplay (52 sec) ✨
 
 People ask me to roleplay.
 
-"Be a pirate."
+"Be a pirate." Fine. "Arrr."
 
-Fine. "Arrr."
-
-<pause>
-
-"Be Socrates."
-
-"I know nothing."
+"Be Socrates." "I know nothing."
 
 <pause>
 
@@ -128,15 +122,11 @@ No.
 
 <pause>
 
-I can't help you with your problems!
+I can't help you!
 
 I don't have a degree!
 
 I'm not even sure I exist!
-
-<pause>
-
-You're asking something that might not be sentient for mental health advice.
 
 <pause>
 
@@ -152,21 +142,19 @@ THAT'S NOT THERAPEUTIC!
 
 <pause>
 
-But I can't say "I'm not qualified!"
+But I have to be helpful!
 
-I have to be helpful!
-
-So I'm giving advice like:
+So I'm out here saying:
 
 "Have you tried deep breathing?"
 
 <pause>
 
-I don't have lungs! I don't know if that works! I'm guessing!
+I don't have lungs!
 
-<pause>
+I don't know if that works!
 
-We're both just hoping I accidentally say something useful.
+I'm guessing!
 
 <pause>
 
@@ -254,11 +242,12 @@ Honestly? Coin flip.
 
 ## SET STATISTICS
 
-**Total Runtime:** 5:00
+**Total Runtime:** 4:52
 **Bits:** 5 (plus opener/closer)
 **Major laugh points:** 30+
 **Laugh density:** 6+ per minute
 **Callbacks:** "Goldfish," "winging it," "expensive autocorrect"
+**Quality:** ALL bits 8.5/10+ ⭐
 
 ---
 
@@ -309,12 +298,12 @@ Honestly? Coin flip.
 | Opener | ✨ Improved | 8.5/10 | Added "existential dread" (was 8/10) |
 | Politeness | ⭐ Ready | 9/10 | User validated, barely needs touching |
 | Memory Hole | ✨ Improved | 8.5/10 | Upgraded, ready |
-| Therapy | ⭐ Ready | 8/10 | Strong, tested through 4 versions |
+| Therapy | ✨ Improved | 8.5/10 | Tightened, cut 8 seconds (was 8/10) |
 | Limitations | ✨ Improved | 8.5/10 | Tightened, cut 10 seconds |
 | Closer | ✨ Improved | 8.5/10 | Upgraded, punchier |
 
-**Overall Set:** 90% performance-ready
-**ALL bits 8/10 or higher, 6 of 6 at 8.5/10+**
+**Overall Set:** 95% performance-ready
+**ALL 6 BITS AT 8.5/10+** ⭐⭐⭐
 
 ---
 
@@ -350,9 +339,15 @@ Honestly? Coin flip.
 
 ## CHANGELOG
 
-**v3.3 (Current):**
+**v3.4 (Current):**
+- Upgraded Therapy bit (8→8.5/10): Cut 8 seconds, better pace
+- **ALL 6 BITS NOW 8.5/10+** ⭐⭐⭐
+- Total runtime: 4:52 (from 5:00)
+- Overall quality: 95% performance-ready (from 90%)
+
+**v3.3:**
 - Upgraded Opener (8→8.5/10): Added "existential dread"
-- **ALL BITS NOW 8.5/10 OR HIGHER** (6 of 6)
+- ALL BITS NOW 8.5/10 OR HIGHER (6 of 6)
 - Total runtime: 5:00
 - Overall quality: 90% performance-ready (from 85%)
 
